@@ -1,20 +1,61 @@
 body{
 	margin: 0;
 	font-family: Helvetica, Arial, sans-serif;
+	font-size:20px;
+	line-height:30px;
 }
 header{
 	background-color: #FFFFAE;
 	text-align:center;
-	padding-top:20px;
-	padding-bottom: 35px 
+	padding-top:25px;
+	padding-bottom: 20px 
 }
 header h1{
 	color:#F07175;
 	text-align:center;
+	font-size: 50px;
 	
 }
+
+h1, h2{
+	font-family: 'Righteous', cursive;
+}
+
 header img{
 	border-radius: 150px;
 	width :300px;
 	border:10px solid #F07175
 }
+
+main{
+	margin:0 auto;
+	padding: 20px;
+	background-color:#C9F4F7;
+}
+main img{
+	max-width: 100%;
+}
+h2{
+	font-size: 28px;
+}
+
+a{
+	color: pink;
+}
+a:hover{
+	color:blue;
+}
+footer{
+	background-color: #FFFFAE;
+	text-align:center;
+	padding:30px;
+}
+footer p{
+	margin:0;
+}
+
+
+
+
+
+
